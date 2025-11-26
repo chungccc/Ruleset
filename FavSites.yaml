@@ -1,0 +1,23 @@
+payload:
+  - DOMAIN-SUFFIX,thehelldiversgame.com
+  - DOMAIN-SUFFIX,pool.ntp.org
+  - DOMAIN-SUFFIX,hk.tv.global.mi.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,icon-sets.iconify.design
+  - DOMAIN-SUFFIX,storysaver.net
+
+  # JAV 类网站
+  - DOMAIN-SUFFIX,javbus.com
+  - DOMAIN-SUFFIX,141jav.com
+  - DOMAIN-SUFFIX,141ppv.com
+  - DOMAIN-SUFFIX,javball.com
+  - DOMAIN-SUFFIX,javbee.vip
+  - DOMAIN-SUFFIX,javsunday.com
+  - DOMAIN-SUFFIX,javtele.net
+  - DOMAIN-SUFFIX,kin8-jav.com
+
+  # Cloud/AWS
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,msh.amazon.com
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,amazon.dev
