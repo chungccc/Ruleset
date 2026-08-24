@@ -1,4 +1,6 @@
-These rules are provided for personal use only; availability for other users is not guaranteed.   
+**These rules are provided for personal use only; availability for other users is not guaranteed.**
+
+Include custom proxy, direct, and Emby routing configurations.
 
 A collection of personally maintained rules for Mihomo / OpenClash.
 
