@@ -1,4 +1,4 @@
-Ruleset
+These rules are provided for personal use only; availability for other users is not guaranteed.   
 
 A collection of personally maintained rules for Mihomo / OpenClash.
 
