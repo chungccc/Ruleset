@@ -1,5 +1,0 @@
-rules:
-  - DOMAIN-SUFFIX,weibo.com
-  - DOMAIN-SUFFIX,weibocdn.com
-  - DOMAIN-SUFFIX,sinaimg.cn
-  - DOMAIN-SUFFIX,weibo.cn
