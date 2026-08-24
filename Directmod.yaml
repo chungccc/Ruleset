@@ -6,3 +6,6 @@ payload:
   - DOMAIN-SUFFIX,grx.rent
   - DOMAIN-SUFFIX,671234.xyz
   - DOMAIN-SUFFIX,flowaccess.org
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
