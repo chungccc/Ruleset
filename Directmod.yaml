@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+  - GEOSITE,steam@cn
