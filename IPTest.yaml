@@ -1,0 +1,9 @@
+payload:
+  # IP / ASN / Geo Detection
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,ipwho.is
+  - DOMAIN-SUFFIX,ipapi.is
+  - DOMAIN-SUFFIX,ip.skk.moe
+  - DOMAIN-SUFFIX,iplark.com
+  - DOMAIN-SUFFIX,bgp.tools
+  - DOMAIN-SUFFIX,open.cachefly.net
