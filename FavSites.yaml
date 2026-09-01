@@ -96,7 +96,6 @@ payload:
   - DOMAIN-SUFFIX,ouonetwork.com
   - DOMAIN-SUFFIX,captcha-delivery.com
   - DOMAIN-SUFFIX,pi-hole.net
-  - DOMAIN-SUFFIX,raw.githubusercontent.com
   - DOMAIN-SUFFIX,okemby.org
   - DOMAIN-SUFFIX,cosplay18.pics
   - DOMAIN-SUFFIX,91selfie.com
