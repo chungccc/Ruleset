@@ -238,8 +238,6 @@ payload:
   - DOMAIN-SUFFIX,nyacat.pw
   - DOMAIN-SUFFIX,nyap2p.com
   - DOMAIN-SUFFIX,okmp3.ru
-  - DOMAIN-SUFFIX,opentrackr.org
-  - DOMAIN-SUFFIX,opentor.org
   - DOMAIN-SUFFIX,overflow.biz
   - DOMAIN-SUFFIX,pikapods.com
   - DOMAIN-SUFFIX,projectk.org
@@ -260,7 +258,6 @@ payload:
   - DOMAIN-SUFFIX,theoks.net
   - DOMAIN-SUFFIX,therarbg.to
   - DOMAIN-SUFFIX,thouvenin.cloud
-  - DOMAIN-SUFFIX,trackarr.org
   - DOMAIN-SUFFIX,trkb.ru
   - DOMAIN-SUFFIX,tritan.gg
   - DOMAIN-SUFFIX,torrentsmd.com
