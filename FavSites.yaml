@@ -194,8 +194,6 @@ payload:
   - DOMAIN-SUFFIX,darkness.services
   - DOMAIN-SUFFIX,ddunlimited.net
   - DOMAIN-SUFFIX,demonii.com
-  - DOMAIN-SUFFIX,dler.com
-  - DOMAIN-SUFFIX,dler.org
   - DOMAIN-SUFFIX,dstud.io
   - DOMAIN-SUFFIX,ducks.party
   - DOMAIN-SUFFIX,e-n-c-r-y-p-t.net
@@ -253,7 +251,6 @@ payload:
   - DOMAIN-SUFFIX,swifte.space
   - DOMAIN-SUFFIX,taciturn-shadow.spb.ru
   - DOMAIN-SUFFIX,tanx.com
-  - DOMAIN-SUFFIX,theoks.net
   - DOMAIN-SUFFIX,therarbg.to
   - DOMAIN-SUFFIX,thouvenin.cloud
   - DOMAIN-SUFFIX,trkb.ru
