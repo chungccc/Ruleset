@@ -1,4 +1,5 @@
 payload:
+  - PROCESS-NAME,transmission-daemon
   - DOMAIN-SUFFIX,wtwuxicenter.com
   - DOMAIN-SUFFIX,daoba.com
   - DOMAIN-SUFFIX,zd.xunhusoft.cn
