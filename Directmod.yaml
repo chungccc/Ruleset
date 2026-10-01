@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,time.nist.gov
   - GEOSITE,steam@cn
+  - GEOSITE,category-pt
