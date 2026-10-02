@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,time.nist.gov
   - GEOSITE,steam@cn
   - GEOSITE,category-pt
+  - GEOSITE,category-public-tracker
