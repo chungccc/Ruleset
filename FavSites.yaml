@@ -3,6 +3,7 @@ payload:
   - GEOSITE,pinterest
   - GEOSITE,javbus
   - GEOSITE,bing
+  - DOMAIN-SUFFIX,thesvg.org
   - DOMAIN-SUFFIX,hk.tv.global.mi.com
   - DOMAIN-SUFFIX,m.media-amazon.com
   - DOMAIN-SUFFIX,worldvectorlogo.com
