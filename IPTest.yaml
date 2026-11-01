@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,iplark.com
   - DOMAIN-SUFFIX,bgp.tools
   - DOMAIN-SUFFIX,open.cachefly.net
+  - DOMAIN-SUFFIX,ipx.al
