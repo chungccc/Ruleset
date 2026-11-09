@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,ssl-images-amazon.com
+  - DOMAIN-SUFFIX,imdb.com
   - DOMAIN-SUFFIX,nvidia.com
   - DOMAIN-SUFFIX,awswaf.com
   - DOMAIN-SUFFIX,amazon.com
