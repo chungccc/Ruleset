@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,pinterest.com
+  - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,ssl-images-amazon.com
   - DOMAIN-SUFFIX,imdb.com
   - DOMAIN-SUFFIX,nvidia.com
