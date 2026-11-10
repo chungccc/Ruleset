@@ -15,7 +15,6 @@ payload:
   - DOMAIN-SUFFIX,pics.dmm.co.jp
   - DOMAIN-SUFFIX,static.cloudflareinsights.com
   - DOMAIN-SUFFIX,javdb.com
-  - DOMAIN,crl3.digicert.com
   - DOMAIN-SUFFIX,hk.tv.global.mi.com
   - DOMAIN-SUFFIX,m.media-amazon.com
   - DOMAIN-SUFFIX,worldvectorlogo.com
